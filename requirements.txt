@@ -50,7 +50,7 @@ sqlparse==0.1.18
 Twisted==16.0.0
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.13.1
+urllib3==1.26.5
 virtualenv==15.1.0
 youtube-dl==2016.2.22
 zope.interface==4.1.3
